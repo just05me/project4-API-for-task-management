@@ -10,7 +10,7 @@ def connect_to_my_database():
     my_db = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="itsmyfirstlinux",
+        password="ur password",
         database="tasks_db"
     )
 
